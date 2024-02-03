@@ -1,0 +1,18 @@
+C:\Users\Admin\source\repos\Test Fpt\Test Fpt\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Admin\source\repos\Test Fpt\Test Fpt\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Admin\source\repos\Test Fpt\Test Fpt\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Admin\source\repos\Test Fpt\Test Fpt\bin\Debug\Test Fpt.exe.config
+C:\Users\Admin\source\repos\Test Fpt\Test Fpt\bin\Debug\Test Fpt.exe
+C:\Users\Admin\source\repos\Test Fpt\Test Fpt\bin\Debug\Test Fpt.pdb
+C:\Users\Admin\source\repos\Test Fpt\Test Fpt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Test Fpt\Test Fpt\bin\Debug\WebDriver.dll
+C:\Users\Admin\source\repos\Test Fpt\Test Fpt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\Test Fpt\Test Fpt\bin\Debug\WebDriver.xml
+C:\Users\Admin\source\repos\Test Fpt\Test Fpt\obj\Debug\Test Fpt.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Test Fpt\Test Fpt\obj\Debug\Test_Fpt.Form1.resources
+C:\Users\Admin\source\repos\Test Fpt\Test Fpt\obj\Debug\Test_Fpt.Properties.Resources.resources
+C:\Users\Admin\source\repos\Test Fpt\Test Fpt\obj\Debug\Test Fpt.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Test Fpt\Test Fpt\obj\Debug\Test Fpt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test Fpt\Test Fpt\obj\Debug\Test Fpt.csproj.CopyComplete
+C:\Users\Admin\source\repos\Test Fpt\Test Fpt\obj\Debug\Test Fpt.exe
+C:\Users\Admin\source\repos\Test Fpt\Test Fpt\obj\Debug\Test Fpt.pdb
